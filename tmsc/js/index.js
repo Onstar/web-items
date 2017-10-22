@@ -142,7 +142,7 @@ window.onload = function(){
 	window.onresize=function(){
 		var w = document.documentElement.clientWidth; //屏幕宽度
 		var h = document.documentElement.clientHeight;
-		console.log(w,h);
+//		console.log(w,h);
 	}
 	
 	

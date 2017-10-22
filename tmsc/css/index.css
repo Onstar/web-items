@@ -342,7 +342,7 @@ footer .footer-content .copy-container .copyright .copy-right p { padding: 10px 
 
 /********* ending footer **************/
 /*** begining aside****/
-aside.left { position: fixed; bottom: 50px; left: 293px; width: 35px; display: none; }
+aside.left { position: fixed; bottom: 50px; left: 10px; width: 35px; display: none; }
 aside.left .popNav { width: 36px; height: 36px; line-height: 36px; font-size: 0.75rem; color: #fff; background-color: #ff0036; text-align: center; }
 aside.left .popList { text-align: center; }
 aside.left .popList a { display: block; width: 36px; height: 36px; box-sizing: border-box; line-height: 12px; font-size: 0.75rem; padding: 6px; margin-top: 1px; background-color: rgba(0, 0, 0, 0.6); color: #fff; text-align: center; }
