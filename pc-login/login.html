@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			input{
+				margin:5px;
+			}
+		</style>
+	</head>
+	<body>
+		用户名: <input type="text" /> <br>
+		密码: <input type="password" /><br />
+		<input type="submit" value="登录"/>
+		<input type="submit" value="注册"/>
+	</body>
+	
+	<script type="text/javascript">
+		var user = document.querySelector("input[type='text']");
+		var pwd = document.querySelector("input[type='password']");
+		var login = document.querySelector("input[value='登录']");
+		var sign = document.querySelector("input[value='注册']");
+		console.log(user,pwd,login,sign)
+	</script>
+</html>
